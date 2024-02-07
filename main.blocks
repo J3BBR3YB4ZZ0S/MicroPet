@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="@}3A[fl=s`Cx7EC39rA6">list</variable><variable id="@/I;X;Sqxfi{*ERFGoRX">Happy_Pet</variable><variable id="08fj23eT}26*kAv@~yVr">Sad_Pet</variable><variable id="z0#Oc*2XQx6w|nQv~8sr">Dead_Pet</variable></variables><block type="device_forever" id="}xuK-#ESc3u1sg02:1?U" x="0" y="0"></block><block type="pxt-on-start" id=".#1kKlx_ho9%P6=qd~qw" x="-203" y="223"><statement name="HANDLER"><block type="variables_set" id="Rp;(Eai^o#@3z;(GxW+l"><field name="VAR" id="@/I;X;Sqxfi{*ERFGoRX">Happy_Pet</field><value name="VALUE"><block type="device_build_image" id="@}Xlm1EfGaA%UWhQ20%+"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></value><next><block type="variables_set" id="f=$mfCRrVY!697Hr;B.f"><field name="VAR" id="08fj23eT}26*kAv@~yVr">Sad_Pet</field><value name="VALUE"><block type="device_build_image" id="+/~;Q7wnbW-pjGz2uOU)"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></value><next><block type="variables_set" id=";yC_:qge[g*|.7rM7Sm?"><field name="VAR" id="z0#Oc*2XQx6w|nQv~8sr">Dead_Pet</field><value name="VALUE"><block type="device_build_image" id="jbrpMe}p9[!p?RDOy+EZ"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></value></block></next></block></next></block></statement></block></xml>
