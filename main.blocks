@@ -11,9 +11,9 @@
         . # # # . 
         # . . . #
         `</field></block></value><next><block type="variables_set" id=";yC_:qge[g*|.7rM7Sm?"><field name="VAR" id="z0#Oc*2XQx6w|nQv~8sr">Dead_Pet</field><value name="VALUE"><block type="device_build_image" id="jbrpMe}p9[!p?RDOy+EZ"><field name="LEDS">`
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . .
+        . # . # . 
+        # # # # # 
+        # . # . # 
+        . # # # . 
+        . # # # .
         `</field></block></value></block></next></block></next></block></statement></block></xml>
